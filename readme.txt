@@ -1,5 +1,5 @@
 this is a test
-git is free software
+git is free software GPL
 
 
 
